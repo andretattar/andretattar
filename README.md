@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andre Tättar
-- 👀 I’m interested in NLP.
-- 🌱 I’m currently learning huggingface fine-tuning.
+- 👀 I am a NLP specialist.
 - 📫 How to reach me @here
 
 <!---
